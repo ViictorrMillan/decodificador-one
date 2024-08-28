@@ -44,4 +44,8 @@ Durante o desenvolvimento, utilizamos o **Figma** para criar o design inicial da
 Também usamos o **Trello** para organização do fluxo de trabalho, onde aprendemos a gerenciar tarefas de forma ágil, priorizando atividades e acompanhando o progresso de cada etapa do projeto.
 
 ---
+## 🚀 Acesse o Projeto
+
+Você pode acessar o projeto implantado na Vercel através do link: [Decodificador](https://decodificador-one-pi.vercel.app)
+
 
